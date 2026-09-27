@@ -1,6 +1,5 @@
 # 👋 Hey, I'm Abhyudaya
 
-🎓 Final-Year CSE (AI/ML) Student  
 📊 Aspiring Data Analyst | Data Science Enthusiast  
 🐍 Working with Python, SQL, Pandas & NumPy  
 📈 Building dashboards with Power BI & Excel  
